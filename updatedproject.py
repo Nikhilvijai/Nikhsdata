@@ -31,7 +31,7 @@ st.write("")
 #this code is for search bar
 searchbar = st.text_input("Search:", value="")
 
-#this code is for running the next step
+#this code is for extracting data from mediawiki
 
 if st.button("Search"):
   artist_data = fetchdata(searchbar)
