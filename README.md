@@ -39,7 +39,7 @@ Favmusic is an exiting website where music lovers can search about their favorit
 
 ![Screenshot_19-5-2024_17738_localhost](https://github.com/Nikhilvijai/Nikhsdata/assets/162718363/4ce267b3-e74d-41f3-a4c1-75af25d411e7)
 
-#*Road map*
+#*ROAD MAP*
 
 1.	First we installed python and its streamlit library from command promt
 2.	Now we designed the logo of our website using paint software
