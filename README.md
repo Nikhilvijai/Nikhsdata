@@ -39,6 +39,18 @@ Favmusic is an exiting website where music lovers can search about their favorit
 
 ![Screenshot_19-5-2024_17738_localhost](https://github.com/Nikhilvijai/Nikhsdata/assets/162718363/4ce267b3-e74d-41f3-a4c1-75af25d411e7)
 
+#*Road map*
+
+1.	First we installed python and its streamlit library from command promt
+2.	Now we designed the logo of our website using paint software
+3.	Then we started in building the user interface and imported respective api's  to fetch data.
+4.	We used wikipedia api to fetch data from wikipedia to provide artist information.
+5.	We used youtubes api to get the songs of the artist searched.
+6.	Then we integrated both these functions into a single code and to be displayed in the same page
+7.	Now we updated the above function to operate simultaneously without using searchbar twice.
+8.	Finally we organised our code and made sure everything was functioning systematically.
+
+
 #*API USED*
 
 1.For Informatiomn: MediaWiki Action API
